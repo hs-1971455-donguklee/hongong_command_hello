@@ -28,3 +28,5 @@ print("num7 = ", num7)
 num10 = 100
 print("num10 = ", num10)
 
+num111= 111
+print("num111 = ", num111)
