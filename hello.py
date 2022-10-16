@@ -21,3 +21,6 @@ print("num6 =", num6)
 num5 = 40
 print("num5 =", num5) 
 
+
+num7 = num1 + num2 + num4 + num5 + num6
+print("num7 = ", num7)
