@@ -14,3 +14,6 @@ if ((num1) == num2):
 
 num4 = 30
 print("num4 =", num4)
+
+num6 = 60
+print("num6 =", num6)
